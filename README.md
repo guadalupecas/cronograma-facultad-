@@ -3,24 +3,24 @@
 
 ## 🧠 PRIMER AÑO
 
-- [ ] Humanismo Médico 1  
-- [ ] Introducción a Ciencias de la Salud  
+- [x]Humanismo Médico 1  
+- [x]Introducción a Ciencias de la Salud  
   *(Historia, Formación Profesional, Bioética, Antropología, Epistemología y Salud Pública 1)*  
-- [ ] Comunicación  
-- [ ] Ciencias Básicas 1  
-  - [ ] Bioquímica  
-  - [ ] Biología Celular  
-  - [ ] Histología  
-  - [ ] Genética  
+- [x]Comunicación  
+- [x]Ciencias Básicas 1  
+  - [x]Bioquímica  
+  - [x]Biología Celular  
+  - [x]Histología  
+  - [x]Genética  
 - [ ] Ciencias Básicas 2  
   - [ ] Embriología  
   - [ ] Fisiología  
   - [ ] Biofísica  
   - [ ] Anatomía  
-- [ ] Técnicas Básicas 1 *(Signos vitales y Primeros Auxilios)*  
-- [ ] AIEM 1 *(Aprendizaje Integrado de Evidencia y Metodología)*  
-- [ ] Curso de nivelación  
-- [ ] ABP *(Talleres de Aprendizaje Basado en Problemas)*
+- [x]Técnicas Básicas 1 *(Signos vitales y Primeros Auxilios)*  
+- [x]AIEM 1 *(Aprendizaje Integrado de Evidencia y Metodología)*  
+- [x]Curso de nivelación  
+- [x]ABP *(Talleres de Aprendizaje Basado en Problemas)*
 
 ---
 
@@ -29,8 +29,8 @@
 - [ ] Humanismo Médico 2  
 - [ ] Salud Pública 2  
 - [ ] Estructura y Función  
-  - [ ] Neurobiología  
-  - [ ] Cardiovascular, Respiratorio y Hematología  
+  - [x]Neurobiología  
+  - [x]Cardiovascular, Respiratorio y Hematología  
   - [ ] Digestivo  
   - [ ] Genitourinario y Endócrino  
 > Áreas temáticas combinadas: Fisiología, Biofísica, Anatomía, Histología, Bioquímica, Embriología  
