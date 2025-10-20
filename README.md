@@ -12,10 +12,9 @@
   - ✅Biología Celular  
   - ✅Histología  
   - ✅Genética  
-- [ ] Ciencias Básicas 2  
-  - [ ] Embriología  
+- ✅Ciencias Básicas 2  
+  - ✅Embriología  
   - [ ] Fisiología  
-  - [ ] Biofísica  
   - [ ] Anatomía  
 - ✅Técnicas Básicas 1 *(Signos vitales y Primeros Auxilios)*  
 - ✅AIEM 1 *(Aprendizaje Integrado de Evidencia y Metodología)*  
