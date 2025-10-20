@@ -26,17 +26,17 @@
 
 ## 🫀 SEGUNDO AÑO
 
-- [ ] Humanismo Médico 2  
+- ✅Humanismo Médico 2  
 - [ ] Salud Pública 2  
-- [ ] Estructura y Función  
+- ✅Estructura y Función  
   - ✅Neurobiología  
   - ✅Cardiovascular, Respiratorio y Hematología  
-  - [ ] Digestivo  
-  - [ ] Genitourinario y Endócrino  
+  - ✅Digestivo  
+  - ✅Genitourinario y Endócrino  
 > Áreas temáticas combinadas: Fisiología, Biofísica, Anatomía, Histología, Bioquímica, Embriología  
 - [ ] Técnicas Básicas 2 *(Semiología)*  
-- [ ] AIEM 2  
-- [ ] ABP
+- ✅AIEM 2  
+- ✅ABP
 
 ---
 
